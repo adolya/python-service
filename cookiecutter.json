@@ -1,0 +1,6 @@
+{
+    "app_name": "Python Microservice",
+    "solution_name": "{{ cookiecutter.app_name|lower|replace(' ', '-') }}",
+    "project_name": "{{ cookiecutter.solution_name|replace('-', '_') }}",
+    "__version": "0.0.1"
+  }

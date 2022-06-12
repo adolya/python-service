@@ -1,0 +1,1 @@
+This software is created using the "python-service-cookiecutter" template version "{{ cookiecutter.__version }}"
